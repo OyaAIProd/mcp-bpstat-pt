@@ -1,5 +1,6 @@
 # mcp-bpstat-pt
 
+[![SafeSkill 97/100](https://img.shields.io/badge/SafeSkill-97%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/pipeworx-io-mcp-bpstat-pt)
 BPstat — Banco de Portugal statistics API (Portuguese central bank). Keyless.
 
 Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 250+ live data sources.
